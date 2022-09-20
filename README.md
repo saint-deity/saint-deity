@@ -1,2 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saint-deity)](https://github.com/anuraghazra/github-readme-stats) ok    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saint-deity&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=saint-deity&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saint-deity&exclude_repo=github-readme-stats,anuraghazra.github.io)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub Snake dark](https://github.com/saint-deity/saint-deity/blob/output/github-contribution-grid-snake-dark.svg)
