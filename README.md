@@ -62,6 +62,3 @@ they may have helped!
 | [World of Coding](https://discord.gg/program) | Administrator |
 | [Gods Club](https://discord.gg/gods-club) | Founder & Developer |
 | [Galaxy Club](https://discord.gg/pZ8D8vqRqX) | Affiliate & Development Supporter |
-
-​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saint-deity&repo=discordia-examples&theme=material-palenight&show_icons=true)](https://github.com/saint-deity/discordia-examples) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saint-deity&repo=astolfo-companion&theme=material-palenight&show_icons=true)](https://github.com/saint-deity/Astolfo-Companion)
