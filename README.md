@@ -3,6 +3,8 @@
 [My Profile](https://github.com/saint-deity)
 _Founder of Gods Club_
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saint-deity&theme=material-palenight&show_icons=true)](https://discord.gg/gods-club)​ ​ ​ 
+
 ## About Me
 I'm a web-designer and Discord bot developer, who
 primarily uses Lua for a large majority of their development.<br />
@@ -61,5 +63,5 @@ they may have helped!
 | [Gods Club](https://discord.gg/gods-club) | Founder & Developer |
 | [Galaxy Club](https://discord.gg/pZ8D8vqRqX) | Affiliate & Development Supporter |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saint-deity&theme=material-palenight&show_icons=true)](https://discord.gg/gods-club)​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
+​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​ ​
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saint-deity&repo=discordia-examples&theme=material-palenight&show_icons=true)](https://github.com/saint-deity/discordia-examples) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=saint-deity&repo=astolfo-companion&theme=material-palenight&show_icons=true)](https://github.com/saint-deity/Astolfo-Companion)
