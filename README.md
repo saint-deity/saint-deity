@@ -21,6 +21,7 @@ they may have helped!
 
 | Project | Status | Links |
 | ----- | ----- | ----- |
+| Discordia Appender | `🟢 complete` | [`🔗 Repository`](https://github.com/saint-deity/discordia-appender) [`🔗 Discord`](https://discord.gg/program) |
 | Scale Global | `🔵 work in progress` | [`🔗 Repository`](https://github.com/saint-deity/scale-global) [`🔗 Discord`](https://discord.gg/gods-club)|
 | Astolfo Companion | `🟡 paused` | [`🔗 Repository`](https://github.com/saint-deity/astolfo-companion) [`🔗 Discord`](https://discord.gg/program) |
 | Kronos Redux | `🔵  work in progress` | [`🔗 Website`](https://godsclub.net/kronos) [`🔗 Discord`](https://discord,gg/gods-club) |
