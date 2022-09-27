@@ -49,7 +49,8 @@ they may have helped!
 | Discordia | `💪 Proficient` |
 | Discordia-Slash | `🤔 Familiar` |
 | Discordia-Interactions | `🤔 Familiar` |
-| Discordia-Components | `🤔 Familiar` |
+| Discordia-Components | `🤔 Familiar` 
+| Discordia-Appender | `:tools: Proficient` |
 | PrettyPrint | `💪 Proficient` |
 | JSON | `💪 Proficient` |
 | Coro-Http | `🤓 Learning` |
