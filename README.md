@@ -50,7 +50,7 @@ they may have helped!
 | Discordia-Slash | `🤔 Familiar` |
 | Discordia-Interactions | `🤔 Familiar` |
 | Discordia-Components | `🤔 Familiar` 
-| Discordia-Appender | `:tools: Proficient` |
+| Discordia-Appender | `🛠️ Creator` |
 | PrettyPrint | `💪 Proficient` |
 | JSON | `💪 Proficient` |
 | Coro-Http | `🤓 Learning` |
