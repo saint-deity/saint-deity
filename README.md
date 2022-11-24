@@ -31,11 +31,8 @@
 </div>
 
 ## About Me
-I'm a web-designer and Discord bot developer, who
-primarily uses Lua for a large majority of their development.<br />
-I've been an avid Lua user for about 6 years, and every day I
-strive to become even better. Pushing my extremely inefficient
-methods to a new extreme for no apparent reason.
+
+AR is a part of the future.<br>
 
 ## Projects
 
