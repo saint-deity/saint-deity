@@ -10,6 +10,7 @@
 	<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" />
 	<br>
 	<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge" />
+	<img src="https://img.shields.io/badge/-Axios-5A29E4?logo=axios&logoColor=fff&style=for-the-badge" />
 	<br>
 	<img src="https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
