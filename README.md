@@ -66,6 +66,7 @@ they may have helped!
 | Coro-Http | `🤓 Learning` |
 | FS | `🤓 Learning` |
 | Base64 | `🤓 Learning` |
+| Mooncake | `🤓 Learning` |
 
 ## Discord Servers
 
