@@ -14,7 +14,8 @@
 	<img src="https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/-C%20Sharp-239120?logo=c-sharp&logoColor=fff&style=for-the-badge" />
-	<img class="java" src="https://res.cloudinary.com/practicaldev/image/fetch/s--KR6jSVNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite">
+	<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--KR6jSVNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite">
+	<img src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=fff&style=for-the-badge"
 </div>
 
 ## About Me
