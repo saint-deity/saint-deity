@@ -6,8 +6,15 @@ _Founder of Gods Club_
  <div align="center">
 	<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=for-the-badge" />
-	<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
+	<img src="https://img.shields.io/badge/-Markdown-000000?logo=css3&logoColor=fff&style=for-the-badge" />
+	<br>
+	<img src="https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=fff&style=for-the-badge" />
+	<img src="https://img.shields.io/badge/-MongoDB?logo=mongodb&logoColor=fff&style=for-the-badge" />
+	<br>
 	<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge" />
+	<br>
+	<img src="https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=fff&style=for-the-badge" />
+	<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
 </div>
 
 ## About Me
