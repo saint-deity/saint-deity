@@ -28,6 +28,7 @@
 	<br>
 	<img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/-Windows%2011-0078D4?logo=windows-11&logoColor=fff&style=for-the-badge" />
+	<img src="https://img.shields.io/badge/--Android-3DDC84?logo=android&logoColor=fff&style=for-the-badge" />
 	
 </div>
 
