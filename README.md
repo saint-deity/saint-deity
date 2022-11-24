@@ -23,7 +23,7 @@
 	<img src="https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android-studio&logoColor=fff&style=for-the-badge" />
 	<br>
 	<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=fff&style=for-the-badge" />
-	<img src="https://img.shields.io/badge/-Sublime%20Text-FF9800?logo=sublime-text&logoColor=000&style=for-the-badge" />
+	<img src="https://img.shields.io/badge/-Sublime%20Text-FF9800?logo=sublime-text&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/-Atom-66595C?logo=atom&logoColor=fff&style=for-the-badge" />
 </div>
 
