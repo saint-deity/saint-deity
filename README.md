@@ -15,7 +15,7 @@ _Founder of Gods Club_
 	<br>
 	<img src="https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
-	<img src="https://img.shields.io/badge/-C%20Sharp-239120?logo=c-sharp&logoColor=000&style=for-the-badge" />
+	<img src="https://img.shields.io/badge/-C%20Sharp-239120?logo=c-sharp&logoColor=fff&style=for-the-badge" />
 </div>
 
 ## About Me
