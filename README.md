@@ -4,7 +4,7 @@
 _Founder of Gods Club_
 
  <div align="center">
-	<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat" />					
+	<img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge" />					
 </div>
 
 ## About Me
