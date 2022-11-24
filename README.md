@@ -25,6 +25,10 @@
 	<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/-Sublime%20Text-FF9800?logo=sublime-text&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/-Atom-66595C?logo=atom&logoColor=fff&style=for-the-badge" />
+	<br>
+	<img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge" />
+	<img src="https://img.shields.io/badge/-Windows%2011-0078D4?logo=windows-11&logoColor=fff&style=for-the-badge" />
+	
 </div>
 
 ## About Me
