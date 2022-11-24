@@ -49,23 +49,8 @@ they may have helped!
 | Discordia Appender | `🟢 complete` | [`🔗 Repository`](https://github.com/saint-deity/discordia-appender) [`🔗 Discord`](https://discord.gg/program) |
 | Scale Global | `🔵 work in progress` | [`🔗 Repository`](https://github.com/saint-deity/scale-global) [`🔗 Discord`](https://discord.gg/gods-club)|
 | Astolfo Companion | `🟡 paused` | [`🔗 Repository`](https://github.com/saint-deity/astolfo-companion) [`🔗 Discord`](https://discord.gg/program) |
-| Kronos Redux | `🔵  work in progress` | [`🔗 Website`](https://godsclub.net/kronos) [`🔗 Discord`](https://discord,gg/gods-club) |
-| Discordia Examples | `🟡 paused` | [`🔗 Repository`](https://github.com/saint-deity/discordia-examples) |
 | Breakpoints Test | `🟢 complete` | [`🔗 Repository`](https://github.com/saint-deity/breakpoints) |
 | RPG Bot | `🔴 dropped` | [`🔗 Repository`](https://github.com/saint-deity/rpg-bot) |
-
-## Languages
-
-| Language | Proficiency |
-| ----- | ----- |
-| Lua | `💪 Proficient` |
-| JavaScript | `🤓 Learning` |
-| GoLang | `🤓 Learning` |
-| HTML | `💪 Proficient` |
-| CSS | `💪 Proficient` |
-| Rust | `🤓 Learning` |
-| C | `🤓 Learning` |
-| C# | `🤔 Familiar` |
 
 ## [`Luvit`](https://luvit.io) Libraries
 
@@ -87,5 +72,4 @@ they may have helped!
 | Server | Position |
 | ----- | ----- |
 | [World of Coding](https://discord.gg/program) | Administrator |
-| [Gods Club](https://discord.gg/gods-club) | Founder & Developer |
 | [Galaxy Club](https://discord.gg/pZ8D8vqRqX) | Affiliate & Development Supporter |
