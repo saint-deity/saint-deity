@@ -33,6 +33,7 @@
 ## About Me
 
 AR is a part of the future.<br>
+Taking another step towards being the spearhead of the AR industry.
 
 ## Projects
 
