@@ -9,7 +9,7 @@ _Founder of Gods Club_
 	<img src="https://img.shields.io/badge/-Markdown-000000?logo=css3&logoColor=fff&style=for-the-badge" />
 	<br>
 	<img src="https://img.shields.io/badge/-JSON-000000?logo=json&logoColor=fff&style=for-the-badge" />
-	<img src="https://img.shields.io/badge/-MongoDB?logo=mongodb&logoColor=fff&style=for-the-badge" />
+	<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge" />
 	<br>
 	<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=for-the-badge" />
 	<br>
