@@ -59,9 +59,6 @@ they may have helped!
 | Discordia-Appender | `🛠️ Creator` |
 | PrettyPrint | `💪 Proficient` |
 | JSON | `💪 Proficient` |
-| Coro-Http | `🤓 Learning` |
-| FS | `🤓 Learning` |
-| Base64 | `🤓 Learning` |
 | Mooncake | `🤓 Learning` |
 
 ## Discord Servers
