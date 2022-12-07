@@ -44,11 +44,9 @@ they may have helped!
 
 | Project | Status | Links |
 | ----- | ----- | ----- |
-| Discordia Appender | `🟢 complete` | [`🔗 Repository`](https://github.com/saint-deity/discordia-appender) [`🔗 Discord`](https://discord.gg/program) |
-| Scale Global | `🔵 work in progress` | [`🔗 Repository`](https://github.com/saint-deity/scale-global) [`🔗 Discord`](https://discord.gg/gods-club)|
-| Astolfo Companion | `🟡 paused` | [`🔗 Repository`](https://github.com/saint-deity/astolfo-companion) [`🔗 Discord`](https://discord.gg/program) |
-| Breakpoints Test | `🟢 complete` | [`🔗 Repository`](https://github.com/saint-deity/breakpoints) |
-| RPG Bot | `🔴 dropped` | [`🔗 Repository`](https://github.com/saint-deity/rpg-bot) |
+| Discordia Appender | `🟢 complete` | [`🔗 Repository`](https://github.com/saint-deity/discordia-appender) [`🔗 Discord`](https://discord.gg/5vkCYFCVTR) |
+| Scale Global | `🔵 work in progress` | [`🔗 Repository`](https://github.com/saint-deity/scale-global) [`🔗 Discord`](https://discord.gg/334WVb8yF2) |
+| Nasa Newsletter | `🔵 work in progress` | [`🔗 Repository`](https://github.com/saint-deity/scale-global) [`🔗 Discord`](https://discord.gg/hkrbpxCr5J) |
 
 ## [`Luvit`](https://luvit.io) Libraries
 
@@ -71,4 +69,5 @@ they may have helped!
 | Server | Position |
 | ----- | ----- |
 | [World of Coding](https://discord.gg/program) | Administrator |
-| [Galaxy Club](https://discord.gg/pZ8D8vqRqX) | Affiliate & Development Supporter |
+| [Gamers Paradise](https://discord.gg/pZ8D8vqRqX) | Affiliate & Supporter |
+| [Gods Club](https://discord.gg/vUdtPudm8Z) | Owner |
