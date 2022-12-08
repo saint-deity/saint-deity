@@ -28,8 +28,9 @@
 	<img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/-Windows%2011-0078D4?logo=windows-11&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=fff&style=for-the-badge" />
-" /><br><br>
-	<img src="https://user-images.githubusercontent.com/59446525/206557192-545abc61-036c-423f-8934-87486f899665.png" />
+	<br>
+	<br>
+	<img src="https://user-images.githubusercontent.com/59446525/206558452-2332b56f-0321-4f18-abc5-b83bedd90960.png" />
 </div>
 
 ## Projects
