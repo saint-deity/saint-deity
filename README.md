@@ -30,6 +30,12 @@
 	<img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=fff&style=for-the-badge" />
 </div>
 
+<div>
+	<div style="background-image: linear-gradient(30deg, #f6eeff,#f1e6fe, #eadaff, #e6cfff, #dab7ff, #c9bcff, #c2b2ff, #beadff, #dab7ff, #e6cfff, #dfc2ff, #f6eeff); background-size: 100%; background-repeat: repeat; background-color: black; background-clip: block; -webkit-background-clip: block; -moz-background-clip: block; box-shadow: 0 0 1vw rgba(0, 0, 0, 0.5);  border-radius: .5vw; width: 70vw; height: 7.2vw; position: absolute; top: 10%; left: 15%;">
+		<h2 class="header promo_header" style="background-color: #1b151f43; color: transparent; text-shadow: 2px 2px 3px rgba(231, 190, 255, 0.96); -webkit-background-clip: text; -moz-background-clip: text; background-clip: text; user-select: none; position: absolute; top: 1%; left: 4%;"> ARtistry </h2>
+	</div>
+</div>
+
 ## About Me
 
 AR is a part of the future.<br>
