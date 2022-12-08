@@ -28,17 +28,9 @@
 	<img src="https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/-Windows%2011-0078D4?logo=windows-11&logoColor=fff&style=for-the-badge" />
 	<img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=fff&style=for-the-badge" />
-</div>
-
-<div align="center">
 	<img src="![image](https://user-images.githubusercontent.com/59446525/206557192-545abc61-036c-423f-8934-87486f899665.png)
 " />
 </div>
-
-## About Me
-
-AR is a part of the future.<br>
-Taking another step towards being the spearhead of the AR industry.
 
 ## Projects
 
