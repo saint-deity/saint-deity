@@ -30,7 +30,7 @@
 	<img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=fff&style=for-the-badge" />
 </div>
 
-<div>
+<div align="center">
 	<img src="![image](https://user-images.githubusercontent.com/59446525/206557192-545abc61-036c-423f-8934-87486f899665.png)
 " />
 </div>
