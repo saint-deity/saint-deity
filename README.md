@@ -2,32 +2,6 @@
 	<img src="https://user-images.githubusercontent.com/59446525/206558452-2332b56f-0321-4f18-abc5-b83bedd90960.png" />
 </div>
 
-## Projects
-
-These are just some of the many projects that I'm working
-on at the moment! Feel free to go and check them out.
-And maybe even start the repositories to show how much
-they may have helped!
-
-| Project | Status | Links |
-| ----- | ----- | ----- |
-| Discordia Appender | `🟢 complete` | [`🔗 Repository`](https://github.com/saint-deity/discordia-appender) [`🔗 Discord`](https://discord.gg/5vkCYFCVTR) |
-| Scale Global | `🔵 work in progress` | [`🔗 Repository`](https://github.com/saint-deity/scale-global) [`🔗 Discord`](https://discord.gg/334WVb8yF2) |
-| Nasa Newsletter | `🔵 work in progress` | [`🔗 Repository`](https://github.com/saint-deity/scale-global) [`🔗 Discord`](https://discord.gg/hkrbpxCr5J) |
-
-## [`Luvit`](https://luvit.io) Libraries
-
-| Libraries | Proficiency |
-| ----- | ----- |
-| Discordia | `💪 Proficient` |
-| Discordia-Slash | `🤔 Familiar` |
-| Discordia-Interactions | `🤔 Familiar` |
-| Discordia-Components | `🤔 Familiar` 
-| Discordia-Appender | `🛠️ Creator` |
-| PrettyPrint | `💪 Proficient` |
-| JSON | `💪 Proficient` |
-| Mooncake | `🤓 Learning` |
-
 ## Discord Servers
 
 | Server | Position |
